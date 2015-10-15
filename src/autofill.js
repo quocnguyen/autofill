@@ -13,10 +13,10 @@
           , "fullname"    : "quocnguyen"
           , "firstname"   : "quoc"
           , "lastname"    : "nguyen"
-          , "email"       : "quocnguyen@clgt.vn"
+          , "email"       : "quocnguyen@acme.vn"
           , "username"    : "quocnguyenclgt"
-          , "password"    : "webzensux"
-          , "confirmation": "webzensux"
+          , "password"    : "123"
+          , "confirmation": "123"
           , "position"    : "Developer"
       };
 
